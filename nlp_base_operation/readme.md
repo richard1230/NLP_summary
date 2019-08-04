@@ -25,7 +25,7 @@ $$
 本算法时间复杂度为 O(mn)。
 
 
-原文：
+参考：
 https://blog.csdn.net/happyrocking/article/details/86491042 
 
 https://www.dreamxu.com/books/dsa/dp/edit-distance.html
