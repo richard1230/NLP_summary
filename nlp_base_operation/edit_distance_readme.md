@@ -22,7 +22,10 @@ $$
 $$
 即：一个非空字符串和一个空字符串的编辑长度，就等于非空字符串的长度。
 
-本算法时间复杂度为 O(mn) O(mn)O(mn)。
+本算法时间复杂度为 O(mn)。
 
 
-原文：https://blog.csdn.net/happyrocking/article/details/86491042 
+参考：
+https://blog.csdn.net/happyrocking/article/details/86491042 
+
+https://www.dreamxu.com/books/dsa/dp/edit-distance.html
